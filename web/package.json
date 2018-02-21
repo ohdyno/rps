@@ -17,6 +17,6 @@
     "puppeteer": "^1.1.0"
   },
   "scripts": {
-    "watch": "gulp jasmine-chrome"
+    "test": "gulp jasmine-chrome"
   }
 }
